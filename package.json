@@ -16,6 +16,7 @@
   "unpkg": "dist/lp-model.js",
   "jsdelivr": "dist/lp-model.js",
   "browser": "dist/lp-model.js",
+  "types": "./index.d.ts",
   "keywords": [
     "ilp",
     "mip",
